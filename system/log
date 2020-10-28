@@ -1,0 +1,1 @@
+[1m[31m[7m Error in /usr/local/bin/pyFoamPlotRunner.py : FatalError in PyFoam: 'PyFoam FATAL ERROR on line 548 of file /usr/local/lib/python2.7/dist-packages/PyFoam-0.6.6-py2.7.egg/PyFoam/Applications/PyFoamApplication.py: Case /home/foamer/Desktop/cal/openFOAM/karuman_cavity_3/system does not have a 'system' directory' in Application-class: PlotRunner (B[m
